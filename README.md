@@ -1,1 +1,1 @@
-visit :-https://speakez-sigma.vercel.app
+visit = https://speak-wise-preet.vercel.app/
